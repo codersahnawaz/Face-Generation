@@ -1,2 +1,2 @@
 # Face-Generation
-# A Generative Adversarial Network to generate new images of faces.
+# A Generative Adversarial Network(GAN) to generate new images of faces.
